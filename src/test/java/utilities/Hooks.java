@@ -13,7 +13,7 @@ public class Hooks {
 
     @Before
     public static void Setup(){
-        ExtentSparkReporter spark = new ExtentSparkReporter("reports/Spark.html");
+        ExtentSparkReporter spark = new ExtentSparkReporter("target/Spark.html");
         extent.attachReporter((spark));
     }
 
