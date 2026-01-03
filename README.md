@@ -4,7 +4,7 @@ API Test to validate the GET, POST, PUT, Delete APIs of fakewebstore.com.
 
 Languages: Java, Gherkin  
 
-Tools: REST Assured, Maven, Cucumber, Junit, ExtendReports
+Tools: REST Assured, Maven, Cucumber, Junit, ExtendReports, Postman
 
 Test Report:  
 
